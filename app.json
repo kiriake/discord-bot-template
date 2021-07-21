@@ -1,0 +1,6 @@
+{
+  "name": "discord-bot-template",
+  "description": "discord bot template",
+  "repository": "https://github.com/kiriake/discord-bot-template",
+  "keywords": ["python", "discord", "bot"]
+}
